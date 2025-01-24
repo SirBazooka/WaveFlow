@@ -22,7 +22,7 @@ audio-visualizer
 
 1. **Clone the repository**:
    ```
-   git clone <repository-url>
+   git clone [<repository-url>](https://github.com/SirBazooka/WaveFlow.git)
    cd audio-visualizer
    ```
 
