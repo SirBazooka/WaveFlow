@@ -22,8 +22,8 @@ audio-visualizer
 
 1. **Clone the repository**:
    ```
-   git clone [<repository-url>](https://github.com/SirBazooka/WaveFlow.git)
-   cd audio-visualizer
+   git clone https://github.com/SirBazooka/WaveFlow.git
+   cd WaveFlow
    ```
 
 2. **Open the `index.html` file** in your web browser to view the application.
